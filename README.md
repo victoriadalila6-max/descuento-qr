@@ -1,0 +1,2 @@
+# descuento-qr
+¡escanea!
